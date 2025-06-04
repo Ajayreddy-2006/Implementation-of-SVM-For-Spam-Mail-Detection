@@ -35,8 +35,8 @@ data.head()
 data.info()
 data.isnull().sum()
 
-X = data["v1"].values
-Y = data["v2"].values
+X = data["v2"].values
+Y = data["v1"].values
 from sklearn.model_selection import train_test_split
 X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2, random_state=0)
 
@@ -58,7 +58,7 @@ accuracy
 
 ## Output:
 #### Result Output:
-![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/ebca3817-9ad2-4374-bf00-f29b9b6d0598)
+![image](https://github.com/user-attachments/assets/89d3756e-9416-4573-8754-aec7ecd9cd0a)
 #### data.head():
 ![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/482bcc29-05cd-4eaf-bd7a-a0ae5f96deb9)
 #### data.info():
