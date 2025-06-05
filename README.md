@@ -66,8 +66,7 @@ accuracy
 #### data.isnull().sum():
 ![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/bf878d0f-b9cf-429d-a9bd-a6c64aeb9357)
 ![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/ca376c9b-f59d-46eb-b97a-e751e5a05d38)
-#### Y_prediction Value:
-![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/b1b11a82-da48-4063-85cb-ee7bfef2860c)
+
 #### Accuracy Value:
 ![image](https://github.com/POZHILANVD/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870498/c090233c-85d3-4285-a19a-f6b8e4327d60)
 
